@@ -1,6 +1,8 @@
 # Cricket-Data-analysis-using-PowerBI
 Power BI project
 
+![powerbi_logo](https://github.com/kevin200010/Cricket-Data-analysis-using-PowerBI/assets/54860223/3e90e5aa-140d-4d7d-a7da-eb78027f7eca)
+
 🏏 Exciting News! 📊🌐
 
 Hey everyone,
@@ -23,3 +25,12 @@ Check out the Power BI dashboard here https://app.powerbi.com/view?r=eyJrIjoiZDY
 
 #CricketWorldCup #DataAnalysis #PowerBI #CricketStats #DataScience #data #dataanalytics #datascience #BI #SQL #microsoft
 Let's go beyond the boundaries of conventional analysis and into the world of data-driven cricketing insights! 🏏📊🌍
+
+<img width="960" alt="ss1" src="https://github.com/kevin200010/Cricket-Data-analysis-using-PowerBI/assets/54860223/48d26e36-6a30-4af5-be88-91df5f66b90c">
+
+
+<img width="960" alt="ss2" src="https://github.com/kevin200010/Cricket-Data-analysis-using-PowerBI/assets/54860223/f5f04aa0-9b02-4926-96a1-0dc999e95b01">
+
+<img width="960" alt="ss3" src="https://github.com/kevin200010/Cricket-Data-analysis-using-PowerBI/assets/54860223/7c40c08c-2992-4931-a1a4-32867fe3bbf5">
+
+
